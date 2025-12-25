@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Sanket Nakhate  
 
-<!--
-**sanketnakhate1604/sanketnakhate1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ whoami
+👨‍💻 Sanket —  Software Developer
 
-Here are some ideas to get you started:
+$ skills
+💡 C++, Data Structures & Algorithms  
+🌐 HTML, CSS, JavaScript, React  
+🛠️ Node.js, Express.js  
+🗄️ MongoDB, SQL  
+☁️ AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ goals
+🚀 Improve problem-solving skills  
+🛠️ Build real-world projects consistently
