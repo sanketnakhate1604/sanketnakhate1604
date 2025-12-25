@@ -3,7 +3,8 @@
 ---
 
 $ whoami 👨‍💻  
-Sanket — Software Developer  
+
+ Software Developer  
 
 ---
 
